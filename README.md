@@ -6,4 +6,4 @@ There are only a couple parameters to be meddled with. It has been mentioned in 
 <br><br>
 #### Ensure to install selenium and chromedriver before running this.
 <br>
-*_this was done as a fun project and no harm is intended_*
+<i><strong>this was done as a fun project cause I'm loving selenium</strong></i>
